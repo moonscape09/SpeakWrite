@@ -1,4 +1,5 @@
 # SpeakWrite
+Deployed on: https://speakwrite-ui.vercel.app
 codebase moved to organization: https://github.com/SpeakWrite-CSC301
 
 
